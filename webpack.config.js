@@ -7,7 +7,6 @@ module.exports = {
   stats: 'minimal',
   entry: {
     index: './src/index.ts',
-    button: './src/components/button/index.ts',
     rating: './src/components/rating/index.ts',
   },
   output: {
